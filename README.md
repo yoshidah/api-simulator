@@ -13,7 +13,7 @@ Overview
 
 ## Licence
 
-[GPL2](https://github.com/yoshidah/api-simulator/blob/master/LICENCE.md)
+[GPL2](https://github.com/yoshidah/api-simulator/blob/master/LICENSE.md)
 
 ## Author
 
