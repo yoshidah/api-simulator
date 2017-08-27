@@ -1,0 +1,33 @@
+{
+  "name": "api-simulator",
+  "version": "0.1.0",
+  "description": "A server system that acts as a simulator for testing purposes that communicates with clients such as smartphones using JSON API",
+  "main": "api-simulator.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshidah/api-simulator.git"
+  },
+  "keywords": [
+    "combination-testing",
+    "simulator",
+    "server",
+    "api",
+    "json",
+    "smart-phone",
+    "development"
+  ],
+  "author": "yoshidah",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/yoshidah/api-simulator/issues"
+  },
+  "homepage": "https://github.com/yoshidah/api-simulator#readme"
+}
